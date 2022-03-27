@@ -1,5 +1,5 @@
 # Notification-Top-Bar
-![](https://i.imgur.com/Z2ZhsAd.mp4)
+![](https://s7.gifyu.com/images/topbarfeatured.gif)
 An advanced notification top bar, designed for FiveM servers
 
 ## Join our Discord Channel for Support & Updates, or for custom resources:
