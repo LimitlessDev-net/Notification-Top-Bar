@@ -1,4 +1,5 @@
 # Notification-Top-Bar
+![](https://i.imgur.com/Z2ZhsAd.mp4)
 An advanced notification top bar, designed for FiveM servers
 
 ## Join our Discord Channel for Support & Updates, or for custom resources:
@@ -10,7 +11,7 @@ https://discord.gg/ax7PZ9BJur
 https://limitlessdev.net
 
 ## Resource Preview
-Video Link Here
+https://youtu.be/ICdTjHnYK8A
 
 ## Main Features:
 - Show notification when player joins or quits server
