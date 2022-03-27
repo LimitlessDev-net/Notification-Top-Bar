@@ -1,0 +1,13 @@
+{
+    "NotificationsEnabled" : true,
+    "AutoMessageDelay" : 20,
+    "DefaultTextColor" : [255,255,255],
+
+    "JoinNotificationEnabled" : true,
+    "JoinNotificationText" : "{name} has joined the server",
+    
+    "DisconnectNotificationEnabled" : true,
+    "DisconnectNotificationText" : "{name} has left the server (Reason: {reason})",
+
+    "CountdownTimer" : 20
+}

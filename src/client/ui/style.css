@@ -1,0 +1,26 @@
+@import url('fonts/oregon.ttf');
+@font-face {
+font-family: "Oregon";
+src: url("fonts/oregon.ttf");
+}
+
+html {
+	color: #fff;
+}
+
+#wrap {
+	font-family: 'Oregon', Arial, sans-serif;
+	display:table;
+	font-size:17px;
+	margin:auto;
+	text-align:center;
+	color: rgba(255, 255, 255, 0.9);
+	width:50%;
+	position:relative;
+}
+
+#wrap p{
+	position:relative;
+	background-color:rgba(0,0,0,0.6);
+	padding:3px;
+}
