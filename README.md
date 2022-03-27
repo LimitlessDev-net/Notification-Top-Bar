@@ -1,4 +1,4 @@
-# Notification-Top-Bar
+# Advanced Notification Top Bar
 ![](https://s7.gifyu.com/images/topbarfeatured.gif)
 
 An advanced notification top bar, designed for FiveM servers
