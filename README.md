@@ -46,3 +46,4 @@ Check out our other resources which we have created for FiveM:
 #### Emotes: https://limitless-dev.tebex.io/package/5019686
 #### Advanced Spawn Panel: https://limitless-dev.tebex.io/package/5027581
 #### Chat Bubbles: https://limitless-dev.tebex.io/package/5022386
+#### Radio Voice Command: https://limitless-dev.tebex.io/package/5038534
